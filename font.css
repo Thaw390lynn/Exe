@@ -1,0 +1,18 @@
+@font-face{
+	font-family:'all';
+	src:url(fonts/Fondamento/Fondamento-Italic.ttf);
+}
+@font-face{
+	font-family: 'logo';
+	src:url(fonts/Raleway/Raleway-Black.ttf);
+}
+@font-face 
+{
+  font-family:'Unicode';
+  src: url('https://cdn.rawgit.com/LeonarAung/MyanmarFont/6cf1262f/mon3.woff') format('woff'), url('https://cdn.rawgit.com/LeonarAung/MyanmarFont/6cf1262f/mon3.ttf') format('ttf');
+}
+@font-face
+{
+	font-family: 'instagram';
+	src:url(fonts/vegan-style-font/VeganStylePersonalUse-5Y58.ttf)
+}
